@@ -90,7 +90,7 @@ export default () => {
           </div>
         </Show>
         
-        <div mt-4><a href="https://pplx.ai/ninvfeng"><span class="op-60"></span> <span class=" gpt-subtitle text-xs">Perplexity的AI浏览器:Comet, 免费领一个月PRO会员</span>👉</a></div>
+        <div mt-4><a href="https://pplx.ai/ninvfeng"><span class="op-60"></span> <span class=" gpt-subtitle text-xs">Perplexity的AI浏览器:Comet, 免费领一个月PRO会员</span>👈</a></div>
 
 {/*         <div mt-2><a href="https://o1-preview.gptnb.xyz"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">o1-preview</span></a></div> */}
 
