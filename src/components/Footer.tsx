@@ -49,7 +49,7 @@ export default () => {
         
         <div mt-4><a href="https://claude.gptnb.xyz"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Sonnet 4.5 编程能力强！</span></a></div>
         
-        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://gpt4f.ninvfeng.xyz">尝试OpenAI最新GPT5 <Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
+        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://gpt4f.ninvfeng.xyz">GPT5.1已更新！ <Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
 
         <Show when={info().is_show === 1}>
           <div op-60 mt-2>
