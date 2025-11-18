@@ -43,7 +43,7 @@ export default () => {
       </div>
       <div mt-6 text-xs class="hidden mobile:block">
 
-        <div op-60>完全免费 无需登录 当日剩{ remain() }次 模型: Gemini</div>
+        <div op-60>完全免费 无需登录 当日剩{ remain() }次</div>
 
         <div mt-4 op-60>收藏不迷路: <a class="gpt-subtitle text-xs" href="https://nav.free2gpt.com" target="_blank" rel="noreferrer">https://nav.free2gpt.com</a>🌟</div>
         
