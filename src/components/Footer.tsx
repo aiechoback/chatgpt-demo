@@ -47,9 +47,9 @@ export default () => {
 
         <div mt-4 op-60>收藏不迷路: <a class="gpt-subtitle text-xs" href="https://nav.free2gpt.com" target="_blank" rel="noreferrer">https://nav.free2gpt.com</a>🌟</div>
         
-        <div mt-4><a href="https://claude.gptnb.xyz"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Opus 4.6已更新, 编程天花板</span></a></div>
+        <div mt-4><a href="https://claude.gptnb.xyz"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Opus 4.6 编程天花板</span></a></div>
         
-        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://gpt4f.ninvfeng.xyz">GPT5.2 ! 已更新<Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
+        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://gpt4f.ninvfeng.xyz">GPT5.4 ! 更新啦<Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
 
         <Show when={info().is_show === 1}>
           <div op-60 mt-2>
