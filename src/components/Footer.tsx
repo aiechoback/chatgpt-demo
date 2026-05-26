@@ -47,7 +47,7 @@ export default () => {
 
         <div mt-4 op-60>收藏不迷路: <a class="gpt-subtitle text-xs" href="https://nav.free2gpt.com" target="_blank" rel="noreferrer">https://nav.free2gpt.com</a>🌟</div>
         
-        <div mt-4><a href="https://chatc.lightaibox.com"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Opus 4.6 编程天花板</span></a></div>
+        <div mt-4><a href="https://chatc.lightaibox.com"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Opus 4.7 编程能力强</span></a></div>
         
         <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">GPT5.4 ! 更新啦<Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
 
@@ -101,14 +101,14 @@ export default () => {
           <div op-60 mt-1><span class="border-1 px-2 py-1 rounded-md transition-colors bg-slate/20 cursor-pointer hover:bg-slate/50">复制口令</span></div>
         </div>  */}
 
-         <div mt-2 onClick={() => { setShow(show() ? 0 : 1) }}>
+         {/* <div mt-2 onClick={() => { setShow(show() ? 0 : 1) }}>
           <div op-60>领个支付宝红包支持一下我们:)<span class="border-1 px-2 py-1 mx-1 rounded-md transition-colors bg-slate/20 cursor-pointer hover:bg-slate/50">领取</span></div>
           <Show when={show() === 1}>
             <div my-4>
               <img class="w-4/5 mt-2 max-w-[300px]" src="/hongbao_l.jpg" />
             </div>
           </Show>
-        </div>
+        </div> */}
 
       </div>
     </footer>
