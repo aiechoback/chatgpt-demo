@@ -49,7 +49,7 @@ export default () => {
         
         <div mt-4><a href="https://chatc.lightaibox.com"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Opus 4.8 编程能力强</span></a></div>
         
-        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">GPT5.4 ! 更新啦<Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
+        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">gpt-5.6-sol ! 更新啦<Show when={info().is_show === 1} >, 兑换码↓↓↓ </Show></a></div>
 
         <Show when={info().is_show === 1}>
           <div op-60 mt-2>
