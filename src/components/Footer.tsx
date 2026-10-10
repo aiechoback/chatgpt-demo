@@ -23,7 +23,7 @@ export default () => {
     <footer>
       <div mt-6 text-xs class="block mobile:hidden">
         <div op-60>完全免费 无需登录 当日剩{ remain() }次</div>
-        <div mt-4><span class="op-60">👉 </span><a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">付费使用gpt-6-astra</a></div>
+        <div mt-4><span class="op-60">👉 </span><a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">付费使用gpt-6.1-sol</a></div>
       </div>
       <div mt-6 text-xs class="hidden mobile:block">
 
@@ -33,7 +33,7 @@ export default () => {
         
         <div mt-4><a href="https://chatc.lightaibox.com"><span class="op-60">👉</span> <span class=" gpt-subtitle text-xs">Claude Opus 5 编程能力强</span></a></div>
         
-        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">gpt-6-astra ! 更新啦</a></div>
+        <div mt-4>👉 <a class=" gpt-subtitle text-xs" href="https://chat1.lightaibox.com">gpt-6.1-sol ! 更新啦</a></div>
 
         
         {/* <div mt-4><span class="op-60">网站服务已基本恢复</span></div> */}
